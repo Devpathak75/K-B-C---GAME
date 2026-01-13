@@ -1,5 +1,5 @@
-🎮 Kon Banega Crorepati (KBC) – Java Web Application
 📌 Project Overview
+🎮 Kon Banega Crorepati (KBC) – Java Web Application
 
 This project is a web-based Kon Banega Crorepati (KBC) game developed using Java, JSP, Servlets, and MySQL.
 The application simulates the real KBC quiz game with lifelines, timer, prize ladder, and multiple game outcomes.
@@ -62,13 +62,15 @@ src/main/webapp
 
 🏆 Prize Ladder System
 
+
 🧠 Lifelines (one-time use each):
 
-50-50
+1. 50-50
 
-Audience Poll
+2. Audience Poll
 
-Call a Friend
+3. Call a Friend
+
 
 🎨 Hover effects on login and option buttons
 
@@ -112,6 +114,7 @@ Use Laptop IPv4 address
 
 Example: http://<IPv4_Address>:8089
 
+
 📌 Future Enhancements
 
 User score history
@@ -122,8 +125,7 @@ Sound effects and animations
 
 Online cloud deployment
 
-👨‍💻 Developed By
-
-Dev Pathak
+👨‍💻 Developed By Dev Pathak
 📌 Java Web Application Developer
-🔗 GitHub: KBC Game Repository
+
+
