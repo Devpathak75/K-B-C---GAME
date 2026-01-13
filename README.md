@@ -23,20 +23,34 @@ Build Tool: Maven (pom.xml)
 📂 Project Structure
 src/main/java
  └── com.kbc.controller
+ 
      ├── StartGameServlet.java
+     
      ├── CheckAnswerServlet.java
+     
      ├── QuitGameServlet.java
 
+
 src/main/webapp
+
  ├── login.jsp
+ 
  ├── question.jsp
+ 
  ├── gameover.jsp
+ 
  ├── win.jsp
+ 
  ├── quit.jsp
+ 
  ├── image/
+ 
  ├── WEB-INF/
+ 
  │    └── web.xml
+ 
  └── pom.xml
+ 
 
 🎯 Game Features
 
@@ -68,6 +82,7 @@ Call a Friend
 
 🔁 Random questions for every new user
 
+
 💰 Prize Ladder
 Question	Amount
 1	₹10,000
@@ -82,6 +97,7 @@ Question	Amount
 10	₹50,00,000
 11	₹1 Crore
 12	₹7 Crore
+
 🌐 Deployment & Access
 
 Server: Apache Tomcat 9
